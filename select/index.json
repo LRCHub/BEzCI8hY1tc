@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "シーズン・イン・ザ・サン",
+  "base_artist": "TUBE",
+  "createdAt": "2026-03-05T12:00:24.675744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シーズン・イン・ザ・サン",
+      "artist": "TUBE",
+      "has_synced": true,
+      "path": "select/01_シーズン・イン・ザ・サン_TUBE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シーズン・イン・ザ・サン Season In The Sun",
+      "artist": "Tube",
+      "has_synced": true,
+      "path": "select/02_シーズン・イン・ザ・サン_Season_In_The_Sun_Tube.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーズン・イン・ザ・サン",
+      "artist": "TUBE",
+      "has_synced": false,
+      "path": "select/pl_01_シーズン・イン・ザ・サン_TUBE.txt"
+    }
+  ]
+}
